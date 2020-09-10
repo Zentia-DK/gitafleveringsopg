@@ -11,5 +11,5 @@
   - Købsprocessen (Når man tjekker ud)
   - jQuery skal anvendes på siden
   
-  ##Lav så meget man kan nå... 
-  ##Github delen er den der er vigtigst
+###### Lav så meget man kan nå...
+###### Github delen er den der er vigtigst
