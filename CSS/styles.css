@@ -6,8 +6,6 @@
 
 body {
     margin: 0; /* Ingen kanter i siden af browser */
-    background-image: url(../Images/h.jpg);
-    opacity: 0.4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,12 +35,9 @@ img {
     height: auto; /* Højden skal tilpasse sig */
 }
 
-footer {
-    text-align: center;
-    background-color: black;
-    color: white;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+.logo{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
 }
 
