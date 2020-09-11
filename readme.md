@@ -7,8 +7,7 @@
   - En præsentabel forside
   - En side der viser produkterne (Oversigt)
   - En side der viser det enkelte produkt (Skal kun laves til et af produkt)
-  -  En indkøbskurv
-  - Købsprocessen (Når man tjekker ud)
-  - jQuery skal anvendes på siden
+  -  Evt. En indkøbskurv
+  -  jQuery må gerne anvendes på siden, men det er ikke et krav
   
 ## Lav så meget man kan nå...Github delen er den der er vigtigst
