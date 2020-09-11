@@ -6,7 +6,10 @@
 
 body {
     margin: 0; /* Ingen kanter i siden af browser */
-
+    background-image: url(../Images/h.jpg);
+    opacity: 0.10;
+    display: block;
+    height: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,3 +38,5 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+
