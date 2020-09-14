@@ -84,13 +84,6 @@ footer {
 
 }
 
-.containerstart{
-    display: flex;
-    max-height: 600px;
-    max-width: 500px;
-    margin-left: 750px;
-    background-color: #dddddd;
-}
 
 /* Forside css*/
 
@@ -132,3 +125,42 @@ footer {
 }
 
 /*Produkter*/
+
+.containerstart{
+   align-content: center;
+    height: 600px;
+    width: 500px;
+    margin-left: 250px;
+    background-color: #dddddd;
+}
+
+.startkit{
+    background-color: #dddddd;
+    border-width: 10px;
+    border-color: black ;
+    justify-items: center;
+}
+button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: #dddddd;
+    background-color: forestgreen ;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+
+}
+button:hover {
+    opacity: 0.7;
+}
+
+.stor{
+    width: 1000px;
+    height: 1050px;
+    background-color: whitesmoke;
+    margin-left: 550px ;
+
+}
+/*Produkt side*/
