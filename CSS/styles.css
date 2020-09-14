@@ -84,6 +84,14 @@ footer {
 
 }
 
+.containerstart{
+    display: flex;
+    max-height: 600px;
+    max-width: 500px;
+    margin-left: 750px;
+    background-color: #dddddd;
+}
+
 /* Forside css*/
 
 .container{
